@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BouncyCastle.Cryptography" Version="2.6.2" />
+    <PackageReference Include="Flurl.Http" Version="4.0.2" />
+    <PackageReference Include="ServiceStack.Text" Version="8.8.0" />
+    <PackageReference Include="System.Diagnostics.EventLog" Version="9.0.8" />
+  </ItemGroup>
+
+</Project>
